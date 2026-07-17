@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Nagamallika10/LeetCode/tree/master/0015-3sum) |
+| [2670-find-the-distinct-difference-array](https://github.com/Nagamallika10/LeetCode/tree/master/2670-find-the-distinct-difference-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Nagamallika10/LeetCode/tree/master/0015-3sum) |
+## Hash Table
+|  |
+| ------- |
+| [2670-find-the-distinct-difference-array](https://github.com/Nagamallika10/LeetCode/tree/master/2670-find-the-distinct-difference-array) |
 <!---LeetCode Topics End-->
