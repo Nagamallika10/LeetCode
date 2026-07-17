@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Nagamallika10/LeetCode/tree/master/0015-3sum) |
+| [0136-single-number](https://github.com/Nagamallika10/LeetCode/tree/master/0136-single-number) |
 | [1037-valid-boomerang](https://github.com/Nagamallika10/LeetCode/tree/master/1037-valid-boomerang) |
 | [2670-find-the-distinct-difference-array](https://github.com/Nagamallika10/LeetCode/tree/master/2670-find-the-distinct-difference-array) |
 ## Two Pointers
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1037-valid-boomerang](https://github.com/Nagamallika10/LeetCode/tree/master/1037-valid-boomerang) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Nagamallika10/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
