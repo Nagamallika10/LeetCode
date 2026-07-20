@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Nagamallika10/LeetCode/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/Nagamallika10/LeetCode/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/Nagamallika10/LeetCode/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/Nagamallika10/LeetCode/tree/master/1037-valid-boomerang) |
 ## Recursion
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Nagamallika10/LeetCode/tree/master/0015-3sum) |
 | [0136-single-number](https://github.com/Nagamallika10/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Nagamallika10/LeetCode/tree/master/0268-missing-number) |
 | [1037-valid-boomerang](https://github.com/Nagamallika10/LeetCode/tree/master/1037-valid-boomerang) |
 | [2670-find-the-distinct-difference-array](https://github.com/Nagamallika10/LeetCode/tree/master/2670-find-the-distinct-difference-array) |
 ## Two Pointers
@@ -26,9 +28,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Nagamallika10/LeetCode/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/Nagamallika10/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Nagamallika10/LeetCode/tree/master/0268-missing-number) |
 | [2670-find-the-distinct-difference-array](https://github.com/Nagamallika10/LeetCode/tree/master/2670-find-the-distinct-difference-array) |
 ## Dynamic Programming
 |  |
@@ -50,8 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Nagamallika10/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Nagamallika10/LeetCode/tree/master/0268-missing-number) |
 ## Database
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Nagamallika10/LeetCode/tree/master/0197-rising-temperature) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Nagamallika10/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
