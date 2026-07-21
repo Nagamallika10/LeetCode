@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nagamallika10/LeetCode/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/Nagamallika10/LeetCode/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/Nagamallika10/LeetCode/tree/master/1037-valid-boomerang) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Nagamallika10/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Nagamallika10/LeetCode/tree/master/0268-missing-number) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Nagamallika10/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
