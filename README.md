@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Nagamallika10/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Nagamallika10/LeetCode/tree/master/0137-single-number-ii) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Nagamallika10/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/Nagamallika10/LeetCode/tree/master/0268-missing-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Nagamallika10/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Database
