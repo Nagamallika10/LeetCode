@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Nagamallika10/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Nagamallika10/LeetCode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/Nagamallika10/LeetCode/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/Nagamallika10/LeetCode/tree/master/1025-divisor-game) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Nagamallika10/LeetCode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Nagamallika10/LeetCode/tree/master/0268-missing-number) |
 | [2670-find-the-distinct-difference-array](https://github.com/Nagamallika10/LeetCode/tree/master/2670-find-the-distinct-difference-array) |
 ## Dynamic Programming
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Nagamallika10/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Nagamallika10/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
