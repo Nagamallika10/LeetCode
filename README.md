@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Nagamallika10/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Nagamallika10/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Nagamallika10/LeetCode/tree/master/0015-3sum) |
+| [0119-pascals-triangle-ii](https://github.com/Nagamallika10/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Nagamallika10/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Nagamallika10/LeetCode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Nagamallika10/LeetCode/tree/master/0268-missing-number) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/Nagamallika10/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [1025-divisor-game](https://github.com/Nagamallika10/LeetCode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
